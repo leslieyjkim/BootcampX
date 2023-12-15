@@ -4,6 +4,7 @@
   "description": "",
   "main": "students.js",
   "scripts": {
+    "start":"node students.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
